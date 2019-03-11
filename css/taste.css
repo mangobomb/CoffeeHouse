@@ -1,0 +1,42 @@
+#taset{
+	width: 100%;
+	position: relative;
+}
+.taset-header{
+	width: 100%;
+	position: relative;
+	
+}
+.taset-header-bt{
+	width: 40%;
+	position: absolute;
+	right: 0px;
+	top: 60%;
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	color: white;
+	letter-spacing: 4px;
+}
+.taset-box{
+	width: 100%;
+	position: relative;
+	
+}
+.taset-box-1{
+	width: 100%;
+	height: 200px;
+	position: relative;
+	padding: 20px 20%;
+}
+.taset-box-1-font{
+	width: 50%;
+	position: absolute;
+	top: 10%;
+}
+.taset-box-2-font{
+	width: 50%;
+	float: right;
+	top: 10%;
+	color: white;
+	text-align: right;
+}

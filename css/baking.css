@@ -1,0 +1,32 @@
+h2{
+	margin: 0px;padding: 0px;
+}
+
+#baking{
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+.baking-header{
+	width: 100%;
+    position: relative;
+}
+.baking-header-img{
+	float: left;
+	width: 50%;
+	padding: 50px 5% 50px 10%;	
+}
+.baking-header-font{
+	float: left;
+	width: 50%;
+	padding:60px 10% 50px 0px;
+}
+.baking-font{
+	width: 80%;
+	margin: 50px 10%;
+}
+.baking-font p{
+	text-indent: 32px;
+	font-size: 16px;
+	letter-spacing: 2px;
+}

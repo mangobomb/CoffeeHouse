@@ -1,0 +1,40 @@
+img{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#born{
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+.born_header{
+	width: 100%;
+	position: relative;
+	margin-bottom: 50px;
+}
+.born_body{
+	width: 80%;
+	position: relative;
+	margin: 30px 10%;
+}
+.born_body_list_l,.born_body_list_r{
+	width: 50%;
+	position: relative;
+	float: left;
+}
+.born_body_list_l_1{
+	width:70%;
+	margin-right: 25%;
+}
+.born_body_list_r_2{
+	width:70%;
+	margin-left: 25%;
+}
+.born_body_list_l_1 img,.born_body_list_r_2 img{
+	width: 100%;
+	border-radius: 50%;
+	z-index: 1;
+}
+
